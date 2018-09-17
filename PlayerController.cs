@@ -13,6 +13,8 @@ public class PlayerController : MonoBehaviour {
 			Instantiate (PM.PlayerDie, transform.position, transform.rotation);
 			Destroy (gameObject);
 			Instantiate()())()()()(;
+			dsafsdfsdfsf();
+					       
 		}
 	}
 }
